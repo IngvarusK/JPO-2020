@@ -1,4 +1,0 @@
-Michal Bogon 99072401030 24 7 1999 1 PP Krakow 1
-Romuald Bogonov 78031203070 12 3 1978 2 PO Warszawa 2
-Pawel Krol 99050201030 2 5 1999 1 PO Krakow 1
-Krzysztof Reczek 99091207090 7 12 1999 2 PP Jaslo 2
